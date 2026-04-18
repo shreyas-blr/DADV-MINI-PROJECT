@@ -4,7 +4,7 @@ import PredictionForm from "../components/PredictionForm";
 const CROP_EMOJI = {
     rice: "🌾", maize: "🌽", chickpea: "🫘", kidneybeans: "🫘", pigeonpeas: "🌿",
     mothbeans: "🌱", mungbean: "🌱", blackgram: "🟤", lentil: "🫘", watermelon: "🍉",
-    muskmelon: "🍈", apple: "🍎", grapes: "🍇", orange: "🍊", papaya: "🍑",
+    muskmelon: "🍈", apple: "🍎", grapes: "🍇", orange: "🍊", cherry: "🍒",
     coconut: "🥥", cotton: "☁️", jute: "🌿", coffee: "☕", banana: "🍌",
     mango: "🥭", pomegranate: "🍎",
 };

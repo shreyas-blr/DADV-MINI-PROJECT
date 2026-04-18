@@ -17,7 +17,7 @@ const DEFAULT_VALUES = { N: 90, P: 42, K: 43, temperature: 21, humidity: 82, ph:
 const CROP_EMOJI = {
     rice: "🌾", maize: "🌽", chickpea: "🫘", kidneybeans: "🫘", pigeonpeas: "🌿",
     mothbeans: "🌱", mungbean: "🌱", blackgram: "🟤", lentil: "🫘", watermelon: "🍉",
-    muskmelon: "🍈", apple: "🍎", grapes: "🍇", orange: "🍊", papaya: "🍑",
+    muskmelon: "🍈", apple: "🍎", grapes: "🍇", orange: "🍊", cherry: "🍒",
     coconut: "🥥", cotton: "☁️", jute: "🌿", coffee: "☕", banana: "🍌",
     mango: "🥭", pomegranate: "🍎",
 };
